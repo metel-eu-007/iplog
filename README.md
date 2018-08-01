@@ -1,2 +1,2 @@
 # iplog
-Code Examples for the IPLOG-GAMA Project
+Code Examples and Tutorials for the IPLOG-GAMA Project
